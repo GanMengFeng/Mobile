@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Study</string>
+    <string name="numbText">Roll Dice</string>
+    <string name="rollButton">Roll</string>
+    <string name="rules">"Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala Bala "</string>
+    <string name="playername">Enter your name</string>
+</resources>
